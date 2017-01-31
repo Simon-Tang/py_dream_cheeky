@@ -10,8 +10,6 @@ Version 1.0 supports the [Big Red Button](http://dreamcheeky.com/big-red-button)
 1. The [prerequisites](https://github.com/walac/pyusb) for installing `pyusb` (check the link for `pyusb` setup instructions)
 
 
-TODO: Upload to PyPi.  Until uploaded to PyPi, the below instructions won't work.
-
 In the virtual environment for your project:
 ```bash
 pip3 install pydreamcheeky
