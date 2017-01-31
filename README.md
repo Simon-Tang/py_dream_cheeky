@@ -79,9 +79,7 @@ def handle_button_event(button_event):
         print("Goodbye!")
         thread.stop()
 
-thread = DreamCheekyButtonThread(
-    event_handler=handle_button_event
-)
+thread = DreamCheekyButtonThread(event_handler=handle_button_event)
 
 try:
     thread.start()
