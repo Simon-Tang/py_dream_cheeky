@@ -1,5 +1,4 @@
 import datetime
-import queue
 import threading
 from typing import Callable
 
